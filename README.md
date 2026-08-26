@@ -81,11 +81,3 @@ SindCat/
     npx expo start
     ```
     Use o app **Expo Go** no seu celular para escanear o QR Code e testar a usabilidade do sistema.
-
-## Contribuição
-
-Contribuições que foquem em melhorar ainda mais a **usabilidade** e a **facilitação de problemas** são muito bem-vindas!
-1. Faça um Fork.
-2. Crie sua Feature Branch.
-3. Envie um Pull Request.
-
